@@ -48,6 +48,10 @@ To use this project, you'll need:
 
 4. In the simulation, press the button to toggle the LED on and off.
 
+## Video
+
+![Screencastfrom09-15-2024123340AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c5ad02a3-7214-4246-be3c-92cbe7e62c2b)
+
 ## Customization
 
 - Modify `main.py` to change the behavior of the MicroPython program.
